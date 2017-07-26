@@ -26,3 +26,5 @@ The output file, mobilinkd-boot.hex, can then be uploaded via the ISP port on
 the board using an ISP programmer such as the USBASP v2.0.  This is the
 programmer that I use, along with a custom cable with pogo pins.
 
+====
+Instructions for building the hardware are at http://www.mobilinkd.com/2014/09/11/arduino-kiss-tnc/
